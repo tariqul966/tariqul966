@@ -2,12 +2,10 @@
 
 <div align="center">
 
+[![GitHub Stars](https://img.shields.io/github/stars/tariqul966/badges?style=flat&color=FFD700&logo=starship&logoColor=white)](https://github.com/tariqul966/badges/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/tariqul966/badges?style=flat&color=0891b2&logo=github&logoColor=white)](https://github.com/tariqul966/badges/network)
+[![GitHub License](https://img.shields.io/github/license/tariqul966/badges?style=flat&color=22c55e)](https://github.com/tariqul966/badges/blob/main/LICENSE)
 ![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Ftariqul966%2F&label=Visitors&icon=github&color=%230a58ca&message=&style=flat&tz=Asia%2FDhaka)
-[![GitHub Stars](https://img.shields.io/github/stars/henriquesebastiao/badges?style=flat&color=FFD700&logo=starship&logoColor=white)](https://github.com/henriquesebastiao/badges/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/henriquesebastiao/badges?style=flat&color=0891b2&logo=github&logoColor=white)](https://github.com/henriquesebastiao/badges/network)
-[![GitHub License](https://img.shields.io/github/license/henriquesebastiao/badges?style=flat&color=22c55e)](https://github.com/henriquesebastiao/badges/blob/main/LICENSE)
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fhenriquesebastiao%2Fbadges&label=visitors&countColor=%230c7ebe&style=flat&labelStyle=none)
-
 
 </div>
 
