@@ -1,7 +1,16 @@
 # Hi there, I'm Tariqul Hasan 👋
 
-![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Ftariqul966%2F&label=Visitors&icon=github&color=%230a58ca&message=&style=flat&tz=Asia%2FDhaka)
+<div align="center">
 
+![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Ftariqul966%2F&label=Visitors&icon=github&color=%230a58ca&message=&style=flat&tz=Asia%2FDhaka)
+[![GitHub Stars](https://img.shields.io/github/stars/henriquesebastiao/badges?style=flat&color=FFD700&logo=starship&logoColor=white)](https://github.com/henriquesebastiao/badges/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/henriquesebastiao/badges?style=flat&color=0891b2&logo=github&logoColor=white)](https://github.com/henriquesebastiao/badges/network)
+[![GitHub License](https://img.shields.io/github/license/henriquesebastiao/badges?style=flat&color=22c55e)](https://github.com/henriquesebastiao/badges/blob/main/LICENSE)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fhenriquesebastiao%2Fbadges&label=visitors&countColor=%230c7ebe&style=flat&labelStyle=none)
+
+*Copy. Paste. Ship. No design skills required.* ✨
+
+</div>
 
 A passionate Developer from Bangladesh, focusing on web development, scripting, and media streaming solutions.
 
