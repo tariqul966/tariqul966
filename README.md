@@ -8,7 +8,6 @@
 [![GitHub License](https://img.shields.io/github/license/henriquesebastiao/badges?style=flat&color=22c55e)](https://github.com/henriquesebastiao/badges/blob/main/LICENSE)
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fhenriquesebastiao%2Fbadges&label=visitors&countColor=%230c7ebe&style=flat&labelStyle=none)
 
-*Copy. Paste. Ship. No design skills required.* ✨
 
 </div>
 
