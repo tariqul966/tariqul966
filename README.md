@@ -1,5 +1,6 @@
 # Hi there, I'm Tariqul Hasan 👋
 
+![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Ftariqul966%2F&label=Visitors&icon=github&color=%230a58ca&message=&style=flat&tz=Asia%2FDhaka)
 
 
 A passionate Developer from Bangladesh, focusing on web development, scripting, and media streaming solutions.
@@ -30,10 +31,37 @@ A passionate Developer from Bangladesh, focusing on web development, scripting, 
 
 ### 📊 GitHub Stats
 
-![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Ftariqul966%2F&label=Visitors&icon=github&color=%230a58ca&message=&style=flat&tz=Asia%2FDhaka)
+<div align="center">
 
-![Tariqul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tariqul966&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tariqul966&layout=compact&theme=radical)
+**Languages & Frameworks**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=flat&logo=elixir&logoColor=white)
+
+**Databases & DevOps**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
+
+**Social & Contact**
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)
+![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=flat&logo=reddit&logoColor=white)
+![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)
+
+</div>
 
 ---
 
