@@ -1,5 +1,5 @@
 # Hi there, I'm Tariqul Hasan 👋
-![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Ftariqul966%2F&label=Visitors&icon=github&color=%230a58ca&message=&style=flat&tz=Asia%2FDhaka)
+
 
 
 A passionate Developer from Bangladesh, focusing on web development, scripting, and media streaming solutions.
@@ -29,6 +29,8 @@ A passionate Developer from Bangladesh, focusing on web development, scripting, 
 ---
 
 ### 📊 GitHub Stats
+
+![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Ftariqul966%2F&label=Visitors&icon=github&color=%230a58ca&message=&style=flat&tz=Asia%2FDhaka)
 
 ![Tariqul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tariqul966&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tariqul966&layout=compact&theme=radical)
